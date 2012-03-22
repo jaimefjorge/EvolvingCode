@@ -6,6 +6,7 @@ public class Animal{
 
     public void makeLifes(){
 	funcall1();
+	funcall3() // forgot this very imporant funcall!! :P
 	funcall2();
 	// comment things..
 
